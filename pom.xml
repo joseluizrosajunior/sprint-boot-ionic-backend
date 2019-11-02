@@ -3,13 +3,13 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.nelioalves.cursomc</groupId>
+	<groupId>br.com.joseluiz.cursomc</groupId>
 	<artifactId>cursomc</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>cursomc</name>
-	<description>Curso Spring Boot Professor Nelio Alves</description>
+	<description>Curso Spring Boot Professor José Luiz</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
